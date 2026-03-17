@@ -1,0 +1,14 @@
+# Entorno
+venv/
+__pycache__/
+*.pyc
+
+# Descargas (NO versionar)
+descargas/
+
+# Historial (opcional, puedes excluirlo)
+historial.json
+
+# Sistema
+.DS_Store
+Thumbs.db
